@@ -1,1 +1,1 @@
-# EDDA2
+# Exercicíos realizados na disciplina de Estrutura de Dados.
